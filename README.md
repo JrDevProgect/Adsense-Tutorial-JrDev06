@@ -83,9 +83,9 @@ Before we start, make sure you have the following:
 
 ### Step 9: Request a Review  
 1. In the **Request Review** section, click the **Request Review** button.  
-2. Google will review your website to ensure it meets their policies.  
-  ![Photo: Request](1740224964352.jpg)
-  ![Photo: Request Review](placeholder.jpg)  
+2. Google will review your website to ensure it meets their policies.
+  ![Photo: Request Review](Screenshot_20250222-194906.jpg)  
+  ![Photo: Request](1740224964352.jpg)  
 
 ---
 
