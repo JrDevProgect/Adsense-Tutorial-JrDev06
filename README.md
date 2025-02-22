@@ -60,14 +60,15 @@ Before we start, make sure you have the following:
 1. Open your website’s **public folder** and find the `index.html` file.  
 2. Paste the AdSense code between the `<head></head>` tags on every page of your site.  
   ![Photo: root](Screenshot_20250222-194826.jpg)
-  ![Photo: Paste Code in HTML](placeholder.jpg)  
+  ![Photo: Paste Code in HTML](Screenshot_20250222-194817.jpg)  
 
 ---
 
 ### Step 7: Add the ads.txt File  
 1. If you don’t have an `ads.txt` file, create one.  
 2. Paste the `ads.txt` snippet into the file.  
-3. Upload the `ads.txt` file to your website’s **root directory** (public folder).  
+3. Upload the `ads.txt` file to your website’s **root directory** (public folder).
+  ![Photo: root](Screenshot_20250222-194826.jpg)  
   ![Photo: Upload ads.txt](Screenshot_20250222-194834.jpg)  
 
 ---
