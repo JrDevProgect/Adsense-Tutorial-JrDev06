@@ -67,7 +67,7 @@ Before we start, make sure you have the following:
 1. If you don’t have an `ads.txt` file, create one.  
 2. Paste the `ads.txt` snippet into the file.  
 3. Upload the `ads.txt` file to your website’s **root directory** (public folder).  
-  ![Photo: Upload ads.txt](placeholder.jpg)  
+  ![Photo: Upload ads.txt](Screenshot_20250222-194834.jpg)  
 
 ---
 
