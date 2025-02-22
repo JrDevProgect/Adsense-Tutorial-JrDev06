@@ -77,7 +77,7 @@ Before we start, make sure you have the following:
 1. Go back to your AdSense account.  
 2. Check the box that says **I’ve placed the code**.  
 3. Click **Verify**.  
-  ![Photo: Verify Code](placeholder.jpg)  
+  ![Photo: Verify Code](1740224927416.jpg)  
 
 ---
 
