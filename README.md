@@ -51,8 +51,8 @@ Before we start, make sure you have the following:
 
 ### Step 5: Copy the AdSense Code  
 - Copy the **AdSense code snippet** and the **ads.txt snippet**.  
-  ![Photo: AdSense Code](placeholder.jpg)  
-  ![Photo: ads.txt Snippet](placeholder.jpg)  
+  ![Photo: AdSense Code](Screenshot_20250222-194759.jpg)  
+  ![Photo: ads.txt Snippet](Screenshot_20250222-194809.jpg)  
 
 ---
 
