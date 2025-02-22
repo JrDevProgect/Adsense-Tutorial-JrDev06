@@ -45,7 +45,7 @@ Before we start, make sure you have the following:
 ### Step 4: Connect Your Site to AdSense  
 1. Go to the **Connect your site to AdSense** section.  
 2. Click **Let’s Go**.  
-  ![Photo: Connect Site](placeholder.jpg)  
+  ![Photo: Connect Site](Screenshot_20250222-195800.jpg)  
 
 ---
 
