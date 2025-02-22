@@ -59,6 +59,7 @@ Before we start, make sure you have the following:
 ### Step 6: Add the Code to Your Website  
 1. Open your website’s **public folder** and find the `index.html` file.  
 2. Paste the AdSense code between the `<head></head>` tags on every page of your site.  
+  ![Photo: root](Screenshot_20250222-194826.jpg)
   ![Photo: Paste Code in HTML](placeholder.jpg)  
 
 ---
