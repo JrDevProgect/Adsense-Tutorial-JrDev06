@@ -32,7 +32,7 @@ Before we start, make sure you have the following:
 1. Go to your AdSense account.  
 2. Click **Add Site**.  
 3. Paste your website URL and click **Save**.  
-  ![Photo: Add Site in AdSense](placeholder.jpg)  
+  ![Photo: Add Site in AdSense](1740224862276.jpg)  
 
 ---
 
