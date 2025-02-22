@@ -23,7 +23,8 @@ Before we start, make sure you have the following:
 - Build a simple website using HTML, CSS, and JavaScript.  
 - Deploy your website using a hosting platform like **[Vercel](https://vercel.com/)** (it’s free and easy to use!).  
 - Copy the link (URL) of your website.  
-  ![Photo: Website URL](1740224740725.jpg)  
+  ![Photo: Website URL](1740224740725.jpg)
+  ![Photo: URL Copy](Screenshot_20250222-194641.jpg)    
 
 ---
 
