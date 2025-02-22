@@ -38,7 +38,7 @@ Before we start, make sure you have the following:
 
 ### Step 3: Fill in Payment Information  
 - Complete the payment details in your AdSense account. This is where Google will send your earnings.  
-  ![Photo: Payment Info](placeholder.jpg)  
+  ![Photo: Payment Info](Screenshot_20250222-195800.jpg)  
 
 ---
 
